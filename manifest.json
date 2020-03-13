@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "刀剑神域序列之争bgm3.1.0 20H1 build10132",
+    "name": "刀剑神域序列之争bgm3.1.0 20H1",
+    "uuid": "6989c411-4355-4756-9163-51c1df5ff678",
+    "version": [ 3, 1, 0 ],
+    "min_engine_version": [ 1, 14, 0 ]
+  },
+  "modules": [
+    {
+      "description": "刀剑神域序列之争bgm3.1.0 20H1 build10132",
+      "type": "resources",
+      "uuid": "faf77f7a-8b3b-4fe7-9a14-08d80cc7efd2",
+      "version": [ 3, 1, 0 ]
+    }
+  ]
+}
